@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Cripto
 - 💞️ I’m looking to collaborate on ... Cripto
 - 📫 How to reach me ... @evertonjovito
-Just cripto
+- Just cripto
 
 <!---
 evertonjovito/evertonjovito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
