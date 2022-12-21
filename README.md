@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evertonjovito
+- 👋 Hi, I’m Éverton
 - 👀 I’m interested in ... Cripto
 - 🌱 I’m currently learning ... Cripto
 - 💞️ I’m looking to collaborate on ... Cripto
